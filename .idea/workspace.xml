@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e71fb0b-9bb4-44e1-8a29-ff7f23d58ce1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insomnia_2020-09-08.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/readme.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1hEeXAKtNFDcmluDGoyJFCsSGrP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="Library" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i --tags nopkcs11" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="Library" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e71fb0b-9bb4-44e1-8a29-ff7f23d58ce1" name="Default Changelist" comment="" />
+      <created>1599580715443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599580715443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1072" y="533" key="#Go_Modules" timestamp="1599581262669">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1072" y="533" key="#Go_Modules/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599581262669" />
+    <state x="734" y="355" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599583074437">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599583074437" />
+    <state x="1173" y="560" key="EnvironmentVariablesDialog" timestamp="1599581261162">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1173" y="560" key="EnvironmentVariablesDialog/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599581261162" />
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1599587064940">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599587064940" />
+    <state x="1154" y="598" key="Github.ShareDialog" timestamp="1599587728613">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1154" y="598" key="Github.ShareDialog/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599587728613" />
+    <state x="1129" y="405" key="Github.UntrackedFilesDialog" timestamp="1599587754604">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1129" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599587754604" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1599587664578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599587664578" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1599587664578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599587664578" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1599587664578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599587664578" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1599587664578">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.139.1920.1040/2560.0.2560.1400@0.0.2560.1400" timestamp="1599587664578" />
+  </component>
+</project>
